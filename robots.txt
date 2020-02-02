@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eicakowee.dishaan.com/sitemap.xml
